@@ -11,7 +11,7 @@ Mohon dibaca baik-baik sampai habis ya supaya tidak ada miskom saat pengumpulan 
 Sebelum mulai ngoding, **fork repository ini terlebih dahulu** ke akun GitHub masing-masing.
 
 Tutorial cara fork repository sudah disediakan di Google Drive berikut
-[Link GDrive Tutorial Fork]
+https://drive.google.com/drive/folders/1UKDUNIYCgJRa9-9gG0T8EKj2DZikvoDI?usp=sharing
 ---
 
 ## 📝 Ketentuan Pengerjaan (WAJIB)
